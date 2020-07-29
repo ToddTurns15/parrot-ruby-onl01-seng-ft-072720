@@ -9,5 +9,3 @@ def parrot
   return "Squawk!"
 end
 
-def parrot(sound = "Pretty bird!")
-end
